@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Leonfarhan
-- 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in Web Developer and Mobile Programmer
+- 🌱 I’m currently learning Javascript/Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
