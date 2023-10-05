@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Leonfarhan
-- 👀 I’m interested in Web Developer and Mobile Developer
-- 🌱 I’m currently learning Next.Js, Kotlin, and Swift
+- 👀 I am interested in Software Engineering, more precisely in Front-End Developer and Mobile Developer.
+- 🌱 I’m currently learning flutter and a little bit about machine learning
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
