@@ -1,297 +1,336 @@
 <div align="center">
-  
-  <!-- Clean Simple Header -->
-  <h1>👋 Hi, I'm Farhan Alwahid</h1>
-  <h3>Fullstack JavaScript Developer from Indonesia 🇮🇩 also known as Leonfarhan</h3>
-  
-  <!-- Simple Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Building+web+experiences;React+%26+Next.js+Developer;Always+learning+new+things" alt="Typing Animation" />
-  
-  <!-- Clean Status Badges -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Leonfarhan&color=6366F1&style=flat-square" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/Leonfarhan?style=flat-square&color=6366F1" alt="Followers" />
-    <img src="https://img.shields.io/badge/Status-Available%20for%20work-success?style=flat-square" alt="Status" />
-  </p>
-  
-  <hr/>
-  
-</div>
 
-## 🎯 Digital Identity
+### 👋 Hi there, I'm Farhan Alwahid
 
-<table>
-<tr>
-<td width="50%">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=650&lines=Backend-Focused+Full+Stack+Developer;Golang+%7C+React+%7C+TypeScript;Building+scalable+web+applications;Clean+code.+Reliable+systems.;Code+with+purpose.+Build+with+impact." alt="Typing SVG" />
 
-```typescript
-interface Developer {
-  name: string;
-  role: string;
-  location: string;
-  mindset: string;
-  currentQuest: string;
-  
-  superpowers: {
-    frontend: string[];
-    backend: string[];
-    database: string[];
-    mobile: string[];
-  };
-  
-  currentlyMastering: string[];
-  lifePhilosophy: string;
-}
+<br />
 
-const farhan: Developer = {
-  name: "Farhan Alwahid",
-  role: "Fullstack JavaScript Developer",
-  location: "Indonesia 🇮🇩",
-  mindset: "Innovation through simplicity",
-  currentQuest: "Building next-gen web experiences",
-  
-  superpowers: {
-    frontend: ["React", "Next.js", "TypeScript", "Tailwind", "Redux"],
-    backend: ["Node.js", "Express", "Python"],
-    database: ["MySQL", "MongoDB", "PostgreSQL", "Supabase"],
-    mobile: ["Flutter", "Dart"]
-  },
-  
-  currentlyMastering: [
-    "Advanced TypeScript Patterns",
-    "Microservices Architecture",
-    "AI-powered Development"
-  ],
-  
-  lifePhilosophy: "Code is poetry, bugs are plot twists! 🎭"
-};
-```
-
-</td>
-<td width="50%">
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%">
-
-### 🌟 Current Focus
-- 🚀 **Project:** Next-gen Library Management System
-- 🎨 **Learning:** Advanced React Patterns & System Design
-- 🚀 **Goal:** Contributing to open-source projects
-- 💡 **Vision:** Making web development more accessible
-
-### 🎮 Fun Facts
-- ☕ Coffee-driven developer (5 cups/day average)
-- 🎵 Code better with hip-hop beats
-- 🌙 Night owl programmer
-- 🏆 Problem solver by nature
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Technology Arsenal
-
-<div align="center">
-
-### 🎨 Frontend Mastery
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,sass,redux" alt="Frontend Arsenal" />
-</p>
-
-### ⚙️ Backend & Infrastructure
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,express,fastapi,mysql,mongodb,postgres,supabase" alt="Backend Arsenal" />
-</p>
-
-### 🔧 DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,webstorm,figma,postman,linux,vercel" alt="Tools Arsenal" />
-</p>
-
-### 📱 Mobile & Others
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,webpack,vite" alt="Mobile Arsenal" />
-</p>
-
-</div>
-
----
-
-## 📊 GitHub Analytics Dashboard
-
-<div align="center">
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Leonfarhan&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&icon_color=8B5CF6&title_color=8B5CF6&text_color=C9D1D9&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Leonfarhan&theme=react&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=FF6B6B&currStreakLabel=8B5CF6" alt="GitHub Streak" />
-  
-  <br><br>
-  
-  <img width="54%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonfarhan&theme=react&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&layout=compact&langs_count=8" alt="Top Languages" />
-  <img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Leonfarhan&theme=react&utc_offset=7" alt="Productive Time" />
-  
-  <br><br>
-  
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Leonfarhan&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FF6B6B&area_color=8B5CF6&area=true&height=280" alt="Activity Graph" />
-  
-</div>
-
----
-
-## 🌟 Featured Projects Showcase
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 📚 Library Management System
-*Revolutionary library management with AI-powered features*
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-
-**✨ Key Features:**
-- 🔐 JWT Authentication & Authorization
-- 📖 Smart Book Recommendation System
-- 📊 Real-time Analytics Dashboard
-- 🎨 Modern UI/UX with Dark Mode
-- 📱 Fully Responsive Design
-
-</td>
-<td width="50%">
-
-### 🌐 Personal Portfolio v2.0
-*Interactive portfolio with 3D elements and animations*
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-
-**✨ Key Features:**
-- 🎮 Interactive 3D Elements
-- 🌗 Advanced Theme System
-- 🎨 Smooth Page Transitions
-- 📈 Performance Optimized
-- 🔍 SEO & Accessibility Ready
-
-</td>
-</tr>
-</table>
-
-### 🚀 More Amazing Projects
-<p>
-  <a href="https://github.com/Leonfarhan?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20More%20Projects-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="More Projects" />
-  </a>
-</p>
-
-</div>
-
----
-
-## 💻 Weekly Code Activity
-
-<div align="center">
-
-```text
-🔥 This Week's Coding Session
-
-TypeScript   ████████████████████████▒   18 hrs 30 mins
-React        ████████████████████▒░░░░   15 hrs 45 mins
-CSS/SCSS     ████████████░░░░░░░░░░░░░   8 hrs 20 mins
-Java         ████████░░░░░░░░░░░░░░░░░   5 hrs 15 mins
-Python       ████░░░░░░░░░░░░░░░░░░░░░   2 hrs 45 mins
-JSON         ██░░░░░░░░░░░░░░░░░░░░░░░   1 hr 30 mins
-
-Total: 52 hours this week ⚡
-```
-
-</div>
-
----
-
-## 🏆 Achievement Gallery
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Leonfarhan&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🎯 Coding Philosophy
-
-<div align="center">
-
-> *"Clean code is not written by following a set of rules. You don't become a software craftsman by learning a list of heuristics. Professionalism and craftsmanship come from values that drive disciplines."*
-
-### 🎯 My Development Principles
-
-```javascript
-const codingPhilosophy = {
-  cleanCode: "Write code that tells a story",
-  performance: "Optimize for both speed and readability",
-  testing: "Test-driven development saves time",
-  learning: "Stay curious, stay updated",
-  collaboration: "Code together, grow together"
-};
-```
-
-</div>
-
----
-
-## 🌐 Connect & Collaborate
-
-<div align="center">
-
-### 💬 Let's Build Something Amazing Together!
-
-<a href="https://linkedin.com/in/farhan-alwahid/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://github.com/Leonfarhan">
+  <img src="https://img.shields.io/badge/GitHub-Leonfarhan-181717?style=flat-square&logo=github" alt="GitHub" />
 </a>
-<a href="https://medium.com/@leonfarhan404">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+<a href="https://linkedin.com/in/farhan-alwahid/">
+  <img src="https://img.shields.io/badge/LinkedIn-Farhan%20Alwahid-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://farhanalwahid-portofolio.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-6366F1?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 <a href="mailto:farhanalwahid10@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
-### 🚀 Available For
-- 💼 **Freelance Projects**
-- 🤝 **Open Source Collaboration**
-- 🌐 **Fullstack JavaScript Development**
-- 📚 **Mentoring & Knowledge Sharing**
+<br />
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=Leonfarhan&color=6366F1&style=flat-square" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/Leonfarhan?style=flat-square&color=6366F1" alt="GitHub Followers" />
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=flat-square" alt="Open to Collaboration" />
 
 </div>
 
 ---
 
-## 🎧 Current Coding Soundtrack
+<table>
+<tr>
+<td width="58%">
+
+## 👨‍💻 About Me
+
+Hi, I'm **Farhan Alwahid**, also known as **Leonfarhan**.
+
+I'm a **Backend-Focused Full Stack Developer** from Indonesia who enjoys building scalable backend systems, clean web interfaces, and useful digital products.
+
+- 🔭 Currently working with **Golang**, **React TypeScript**, **PostgreSQL**, and **DigitalOcean**
+- 🌱 Learning more about **System Design**, **Clean Architecture**, and **Scalable APIs**
+- 🧠 Interested in backend engineering, fullstack development, and AI-powered features
+- 🤝 Open to collaboration, freelance projects, and interesting product ideas
+- ⚡ I like turning complex problems into clean and maintainable solutions
+
+</td>
+<td width="42%" align="center">
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100%" alt="Typing Cat Coding Meme" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  
-  <a href="https://music.apple.com/id/album/jackboys-2/1826343589">
-    <img src="https://img.shields.io/badge/🔥%20JACKBOYS%202-Travis%20Scott%20&%20The%20JACKBOYS-FF6B6B?style=for-the-badge&logo=apple-music&logoColor=white" alt="Current Vibe" />
-  </a>
-  
-  <p><em>Perfect beats for late-night coding sessions 🌙</em></p>
-  
+
+### Languages
+
+<img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
+
+### Backend
+
+<img src="https://img.shields.io/badge/Fiber-00ADD8?style=for-the-badge" alt="Fiber" />
+<img src="https://img.shields.io/badge/Chi-00ADD8?style=for-the-badge" alt="Chi" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+<img src="https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+
+### Frontend
+
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=111111" alt="React.js" />
+<img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
+<img src="https://img.shields.io/badge/shadcn%2Fui-111111?style=for-the-badge" alt="shadcn/ui" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+
+### Database & Cloud
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" alt="AWS" />
+<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
+
+### Tools
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX" />
+<img src="https://img.shields.io/badge/CI%2FCD-111827?style=for-the-badge" alt="CI/CD" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+
 </div>
 
 ---
 
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
 <div align="center">
-  
-  <!-- Clean Simple Footer -->
-  <p>⭐ <strong>Thanks for visiting my profile!</strong></p>
-  
-  <p>💡 <em>"First solve the problem, then write the code"</em></p>
-  
-  <p><strong>Made with ❤️ by Farhan Alwahid a.k.a Leonfarhan</strong></p>
-  
+
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="100%" height="220" alt="E-Commerce Coding GIF" />
+
+### 🛒 Shopmate
+
+</div>
+
+Full stack e-commerce app with authentication, role-based access, payment integration, and cloud deployment.
+
+**Tech:**  
+`Next.js` `NestJS` `TypeScript` `Stripe` `AWS` `Docker`
+
+<div align="center">
+
+<a href="https://github.com/Leonfarhan/shopmate-ui">
+  <img src="https://img.shields.io/badge/Frontend-Repository-181717?style=for-the-badge&logo=github" alt="Shopmate Frontend" />
+</a>
+
+<br />
+<br />
+
+<a href="https://github.com/Leonfarhan/shopmate-server">
+  <img src="https://img.shields.io/badge/Backend-Repository-181717?style=for-the-badge&logo=github" alt="Shopmate Backend" />
+</a>
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<a href="https://github.com/Leonfarhan/golang-clean-architecture">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" height="220" alt="Go Clean Architecture Coding Meme" />
+</a>
+
+### 🧱 Go Clean Architecture
+
+</div>
+
+Backend project built with Go and clean architecture principles.
+
+**Tech:**  
+`Go` `Gin` `PostgreSQL` `JWT`
+
+<div align="center">
+
+<a href="https://github.com/Leonfarhan/golang-clean-architecture">
+  Click the meme to view repository
+</a>
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<a href="https://github.com/Leonfarhan/simple-social">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" height="220" alt="Simple Social Coding Meme" />
+</a>
+
+### 🌐 Simple Social
+
+</div>
+
+Minimal Go HTTP API starter for social application development.
+
+**Tech:**  
+`Go` `Chi` `Air` `godotenv`
+
+<div align="center">
+
+<a href="https://github.com/Leonfarhan/simple-social">
+  Click the meme to view repository
+</a>
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100%" height="220" alt="AI Work Coding Meme" />
+
+### 🧪 Current Work
+
+</div>
+
+Computer-Based Test platform with AI-driven answer analysis.
+
+**Tech:**  
+`Golang Fiber` `React TypeScript` `PostgreSQL` `Supabase` `Groq API` `DigitalOcean`
+
+```text
+Focus:
+- Scalable backend
+- Clean API design
+- AI-powered evaluation
+- Reliable deployment
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 Currently Exploring
+
+<details open>
+<summary><strong>Backend Engineering</strong></summary>
+
+<br />
+
+- Golang backend development
+- REST API architecture
+- Clean architecture
+- Authentication and authorization
+- Database modeling
+- Service-layer design
+
+</details>
+
+<details>
+<summary><strong>Cloud & Deployment</strong></summary>
+
+<br />
+
+- Dockerized application deployment
+- DigitalOcean App Platform
+- AWS Elastic Beanstalk
+- NGINX configuration
+- CI/CD workflow
+- Production-ready infrastructure
+
+</details>
+
+<details>
+<summary><strong>Fullstack Product Development</strong></summary>
+
+<br />
+
+- React TypeScript applications
+- Next.js frontend architecture
+- API integration
+- UI consistency
+- Performance optimization
+- Maintainable project structure
+
+</details>
+
+---
+
+## 🧑‍💻 Coding Mode
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="360" alt="Debugging Coding Meme" />
+
+<br />
+<br />
+
+```text
+Coffee     ████████████████████░░░░░
+Backend    ███████████████████████░░
+Frontend   ████████████████░░░░░░░░░
+Debugging  ████████████████████████░
+Learning   █████████████████████████
+```
+
+</div>
+
+---
+
+## 📌 Quick Snapshot
+
+```ts
+const farhan = {
+  username: "Leonfarhan",
+  location: "Indonesia 🇮🇩",
+  role: "Backend-Focused Full Stack Developer",
+  currentlyWorkingWith: [
+    "Golang",
+    "React TypeScript",
+    "PostgreSQL",
+    "DigitalOcean"
+  ],
+  interestedIn: [
+    "Backend Engineering",
+    "System Design",
+    "Clean Architecture",
+    "Cloud Deployment",
+    "AI-powered Features"
+  ],
+  mindset: "Code with purpose. Build with impact."
+};
+```
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="mailto:farhanalwahid10@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://linkedin.com/in/farhan-alwahid/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/Leonfarhan?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github" alt="GitHub Repositories" />
+</a>
+
+<br />
+<br />
+
 </div>
